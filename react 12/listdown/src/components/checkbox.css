@@ -1,0 +1,57 @@
+
+  .App {
+    font-family: sans-serif;
+    text-align: center;
+    align-items: center;
+
+   
+  }
+  .select-class{
+    width: 50% !important;
+    margin: 10px;
+    
+  }
+  
+  
+  .dropdown {
+  
+     display: none;
+   }
+  
+   div{
+    text-align: center;
+    padding-top: 30px;
+    margin-bottom: 10px;
+   }
+   input {
+    height: 10px;
+    width: 10px;
+   }
+   
+   .card {
+    height: 685px;
+    width: 335px;
+    padding: 20px 35px;
+    background:#35354f;
+    border-radius: 20px;
+    margin: px;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+    
+    
+  
+  }
+  .card2 .h1{
+    background-color: #4a4a95;
+  }
+  .card2 .button {
+    background-color: #4a4a95;
+  }
+  .h1{
+    background-color: #92707b;
+
+  }
+  .label{
+    padding-left: 10px;
+  }

@@ -1,0 +1,67 @@
+*{
+  background-image: url('logo.jpeg');
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+ 
+  
+ 
+}
+
+
+.select-class{
+  width: 50% !important;
+  margin: 10px;
+  
+}
+.option {
+  width: 50% !important;
+  margin: 10px;
+  
+}
+
+.dropdown {
+
+   display: none;
+ }
+
+ div #users{
+  text-align: center;
+  padding-top: 30px;
+ }
+ input {
+  height: 30px;
+  width: 30px;
+ }
+ button{
+  height: 30px;
+  width: 100px;
+  background-color: brown;
+ }
+ .checkBox{
+  align-items: center;
+ }
+ .card #checkbox {
+  height: 365px;
+  width: 335px;
+  padding: 20px 35px;
+  background:#b42a56;
+  border-radius: 20px;
+  margin: 15px;
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+  
+
+}
+.header {
+  padding: 25px 0;
+  text-align: center;
+  background: #222;
+}
+.header img {
+  width: 100px;
+  height: 13px;
+}
